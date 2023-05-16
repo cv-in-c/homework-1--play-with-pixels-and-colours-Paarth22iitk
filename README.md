@@ -234,3 +234,4 @@ You only need to turn in one file, your `process_image.c`. Use github classrooms
 
 [1]: https://en.wikipedia.org/wiki/SRGB#The_sRGB_transfer_function_("gamma")
 [2]: https://en.wikipedia.org/wiki/Luma_(video)
+Test for commit and push 
